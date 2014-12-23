@@ -1,0 +1,20 @@
+{
+  "name": "inv",
+  "version": "0.0.1",
+  "description": "Invariant",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fi11/inv.git"
+  },
+  "keywords": [
+    "invariant",
+    "assert"
+  ],
+  "bugs": {
+    "url": "https://github.com/fi11/inv/issues"
+  },
+  "homepage": "https://github.com/fi11/inv",
+  "author": "Facebook, Inc.",
+  "license": "BSD"
+}
